@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vo Nhu Hoa</h1>
-<h3 align="center">A passionate FullStack developer</h3>
+<h3 align="center">A passionate Web developer</h3>
 
 - 🌱 I’m currently learning **ReactJS, .NET**
 
